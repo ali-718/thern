@@ -1,0 +1,56 @@
+[
+    {
+        "id": "particle_hero_section_content",
+        "title": "TheRN is placeholder text used's commonly in the graphic, print, and publishing mockups.",
+        "date": "EXPERTS SINCE 1995",
+        "bg_image": "./images/particle-banner.jpg",
+        "btn_link": "/index-particle",
+        "clients": [
+            {
+                "id": "particle_client_1",
+                "link": "/",
+                "image": "./images/brand-7.png"
+            },
+            {
+                "id": "particle_client_2",
+                "link": "/",
+                "image": "./images/brand-6.png"
+            },
+            {
+                "id": "particle_client_3",
+                "link": "/",
+                "image": "./images/brand-4.png"
+            }
+        ]
+    }, 
+    {
+        "id": "particle_story_section_contnet",
+        "title": "Our clients usually say that our comprtomise with innovation and the strategy.",
+        "subtitle": "Our Story",
+        "image": "./images/about.jpg",
+        "path": "/company",
+        "content": [
+            "It's difficult to find examples of lorem ipsum in use before Letraset made it popular as a dummy text in the 1960s, although McClintock says he remembers coming across the lorem ipsum passage in a book of old metal type samples. So far he hasn't relocated where he once saw the passage, but the popularity of Cicero in the 15th century supports the theory that the filler text has been used for centuries.",
+            "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled."
+        ]
+    },
+    {
+        "id": "particle_project_section_content",
+        "title": "Our Awesome Project",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "id": "particle_clients_section_content",
+        "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui laborum.",
+        "subtitle": "OUR CLIENTS"
+    },
+    {
+        "id": "particle_banner_section_content",
+        "banner_image": "./images/video.jpg"
+    },
+    {
+        "id": "particle_recent_post_section_content",
+        "title": "Our Recent posts",
+        "subtitle": "SAMPLE THE GOODS"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "id": "slider_hero_section_content",
+        "slides": [
+            {
+                "slide_text": {
+                    "title": "TheRN is placeholder text used's commonly in the graphic, print, and publishing mockups.",
+                    "date": "EXPERTS SINCE 1995",
+                    "bg_image": "./images/banner-3.jpg",
+                    "btn_link": "/index-slider"
+                },
+                "slide_nav": {
+                    "title": "TheRN is placeholder monly in the graphic",
+                    "subtitle": "EXPERTS SINCE 1995"
+                }
+            },
+            {
+                "slide_text": {
+                    "title": "TheRN is placeholder text used's commonly in the graphic, print, and publishing mockups.",
+                    "date": "EXPERTS SINCE 1995",
+                    "bg_image": "./images/banner-3-2.jpg",
+                    "btn_link": "/index-slider"
+                },
+                "slide_nav": {
+                    "title": "TheRN is placeholder monly in the graphic",
+                    "subtitle": "EXPERTS SINCE 1995"
+                }
+            },
+            {
+                "slide_text": {
+                    "title": "TheRN is placeholder text used's commonly in the graphic, print, and publishing mockups.",
+                    "date": "EXPERTS SINCE 1995",
+                    "bg_image": "./images/banner-3-2.jpg",
+                    "btn_link": "/index-slider"
+                },
+                "slide_nav": {
+                    "title": "TheRN is placeholder monly in the graphic",
+                    "subtitle": "EXPERTS SINCE 1995"
+                }
+            },
+            {
+                "slide_text": {
+                    "title": "TheRN is placeholder text used's commonly in the graphic, print, and publishing mockups.",
+                    "date": "EXPERTS SINCE 1995",
+                    "bg_image": "./images/particle-banner.jpg",
+                    "btn_link": "/index-slider"
+                },
+                "slide_nav": {
+                    "title": "TheRN is placeholder monly in the graphic",
+                    "subtitle": "EXPERTS SINCE 1995"
+                }
+            }
+        ]
+    }, 
+    {
+        "id": "slider_story_section_contnet",
+        "title": "Our clients usually say that our comprtomise with innovation and the strategy.",
+        "subtitle": "Our Story",
+        "image": "./images/about.jpg",
+        "path": "/company",
+        "content": [
+            "It's difficult to find examples of lorem ipsum in use before Letraset made it popular as a dummy text in the 1960s, although McClintock says he remembers coming across the lorem ipsum passage in a book of old metal type samples. So far he hasn't relocated where he once saw the passage, but the popularity of Cicero in the 15th century supports the theory that the filler text has been used for centuries.",
+            "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled."
+        ]
+    },
+    {
+        "id": "slider_project_section_content",
+        "title": "Our Awesome Project",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "id": "slider_clients_section_content",
+        "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui laborum.",
+        "subtitle": "OUR CLIENTS"
+    },
+    {
+        "id": "slider_banner_section_content",
+        "banner_image": "./images/video.jpg"
+    },
+    {
+        "id": "slider_recent_post_section_content",
+        "title": "Our Recent posts",
+        "subtitle": "SAMPLE THE GOODS"
+    }
+]

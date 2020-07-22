@@ -1,0 +1,52 @@
+[
+  {
+    "title": "home",
+    "isSubmenu": true,
+    "submenu": [
+      {
+        "title": "Home Banner",
+        "path": "/index-banner"
+      },
+      {
+        "title": "Home Particle",
+        "path": "/index-particle"
+      },
+      {
+        "title": "Home Video",
+        "path": "/index-video"
+      },
+      {
+        "title": "Home Slider",
+        "path": "/index-slider"
+      },
+      {
+        "title": "Home Blog",
+        "path": "/index-blog"
+      }
+    ]
+  },
+  {
+    "title": "company",
+    "path": "/company"
+  },
+  {
+    "title": "project",
+    "path": "/project"
+  },
+  {
+    "title": "single project",
+    "path": "/project/smart-business"
+  },
+  {
+    "title": "blog",
+    "path": "/blog"
+  },
+  {
+    "title": "single blog",
+    "path": "/black-down-in-the-water"
+  },
+  {
+    "title": "contact",
+    "path": "/contact"
+  }
+]

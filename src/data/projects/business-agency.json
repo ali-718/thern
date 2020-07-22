@@ -1,0 +1,33 @@
+{
+    "id": "business-agency",
+    "title": "Smart Business Agency",
+    "client": "Jonas Khandawald",
+    "sector": "commercial",
+    "year": "2009 - 2019",
+    "featured_image": "./images/business-agency/featured_image.jpg",
+    "is_featured": true,
+    "body": [
+        "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem that accusantium doloremque laudantium, totam rem aperiam.you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+        "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    ],
+    "features": [
+        {
+            "id": "business-feature-1",
+            "title": "Retina Device",
+            "image": "./images/smart-business/3.jpg",
+            "text": [
+                "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+                "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+            ]
+        },
+        {
+            "id": "business-feature-2",
+            "title": "Responsive.",
+            "image": "./images/smart-business/4.jpg",
+            "text": [
+                "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.                "
+            ]
+        }
+    ]
+}

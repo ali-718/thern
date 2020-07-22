@@ -1,0 +1,90 @@
+[
+    {
+        "id": "preview-hero-data",
+        "title": "TheRN - Creative Agency React, Blog, Portfolio <br/> Gatsby Template",
+        "laptop": "./images/mockup/laptop.png",
+        "tablet": "./images/mockup/tablet.png",
+        "phone": "./images/mockup/phone.png"
+    },
+    {
+        "id": "preview-home-demo-data",
+        "demos": [
+            {
+                "id": "preview-home-1",
+                "title": "Home Banner",
+                "path": "/index-banner",
+                "image": "./images/demo/home/home-1.jpg"
+            },
+            {
+                "id": "preview-home-2",
+                "title": "Home Particle",
+                "path": "/index-particle",
+                "image": "./images/demo/home/home-2.jpg"
+            },
+            {
+                "id": "preview-home-3",
+                "title": "Home Slider",
+                "path": "/index-slider",
+                "image": "./images/demo/home/home-3.jpg"
+            },
+            {
+                "id": "preview-home-4",
+                "title": "Home Video",
+                "path": "/index-video",
+                "image": "./images/demo/home/home-4.jpg"
+            },
+            {
+                "id": "preview-home-5",
+                "title": "Home Blog",
+                "path": "/index-blog",
+                "image": "./images/demo/home/home-5.jpg"
+            },
+            {
+                "id": "preview-home-coming-soon-2",
+                "title": "Coming Soon 2",
+                "image": "./images/demo/home/home-coming-soon-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "preview-inner-demo-data",
+        "demos": [
+            {
+                "id": "preview-blog",
+                "title": "Blog",
+                "path": "/blog",
+                "image": "./images/demo/inner/blog.jpg"
+            },
+            {
+                "id": "preview-single-blog",
+                "title": "Single Blog",
+                "path": "/black-down-in-the-water",
+                "image": "./images/demo/inner/single-blog.jpg"
+            },
+            {
+                "id": "preview-project",
+                "title": "Project",
+                "path": "/project",
+                "image": "./images/demo/inner/project.jpg"
+            },
+            {
+                "id": "preview-single-project",
+                "title": "Single Project",
+                "path": "/project/smart-business",
+                "image": "./images/demo/inner/single-project.jpg"
+            },
+            {
+                "id": "preview-about-us",
+                "title": "About Us",
+                "path": "/company",
+                "image": "./images/demo/inner/about.jpg"
+            },
+            {
+                "id": "preview-contact-us",
+                "title": "Contact Us",
+                "path": "/contact",
+                "image": "./images/demo/inner/contact.jpg"
+            }
+        ]
+    }
+]

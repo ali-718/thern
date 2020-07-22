@@ -1,0 +1,72 @@
+[
+    {
+        "id": "alison-m-major",
+        "image": "./images/1.jpg",
+        "name": "Alison M. Major",
+        "designation": "Co-Founder/COO",
+        "role": "administrator"
+    },
+    {
+        "id": "juanita-g-sicard",
+        "image": "./images/2.jpg",
+        "name": "Juanita G. Sicard",
+        "designation": "Co-Founder/CEO",
+        "role": "administrator"
+    },
+    {
+        "id": "ruth-j-overton",
+        "image": "./images/1.jpg",
+        "name": "Ruth J. Overton",
+        "designation": "Application Developer",
+        "role": "employee"
+    },
+    {
+        "id": "gino-j-ramirez",
+        "image": "./images/2.jpg",
+        "name": "Gino J. Ramirez",
+        "designation": "Product Manager",
+        "role": "employee"
+    },
+    {
+        "id": "brian-b-mcateer",
+        "image": "./images/3.jpg",
+        "name": "Brian B. McAteer",
+        "designation": "Product Manager",
+        "role": "employee"
+    },
+    {
+        "id": "betty-j-flory",
+        "image": "./images/4.jpg",
+        "name": "Betty J. Flory",
+        "designation": "Marketing Specialist",
+        "role": "employee"
+    },
+    {
+        "id": "john-m-solomon",
+        "image": "./images/6.jpg",
+        "name": "John M. Solomon",
+        "designation": "Office Manager",
+        "role": "employee"
+    },
+    {
+        "id": "george-s-ford",
+        "image": "./images/7.jpg",
+        "name": "George S. Ford",
+        "designation": "Technical Director",
+        "role": "employee"
+    },
+    {
+        "id": "mathew-k-stewart",
+        "image": "./images/8.jpg",
+        "name": "Mathew K. Stewart",
+        "designation": "Junior Product Designer",
+        "role": "employee"
+    },
+    {
+        "id": "you-can-be",
+        "image": "./images/placeholder.jpg",
+        "name": "You can be",
+        "designation": "Your Profession",
+        "role": "employee"
+    }
+]

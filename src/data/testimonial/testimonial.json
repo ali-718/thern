@@ -1,0 +1,29 @@
+[
+    {
+        "id": "testimonial_1",
+        "author_name": "Jon Cummines dol",
+        "author_role": "CEO",
+        "author_image": "./images/clint-1.png",
+        "company": "Envato Marketplace",
+        "country": "USA",
+        "review": "A talented, creative and thoughtful team that really CARES about their work and the success of their clients."
+    },
+    {
+        "id": "testimonial_2",
+        "author_name": "Tony Stark",
+        "author_role": "CEO",
+        "author_image": "./images/clint-2.png",
+        "company": "Stark Enterprise",
+        "country": "USA",
+        "review": "A talented, creative and thoughtful team that really CARES about their work and the success of their clients."
+    },
+    {
+        "id": "testimonial_3",
+        "author_name": "Bruce Wayne",
+        "author_role": "CEO",
+        "author_image": "./images/clint-3.png",
+        "company": "Wayne Enterprise",
+        "country": "USA",
+        "review": "A talented, creative and thoughtful team that really CARES about their work and the success of their clients."
+    }
+]
