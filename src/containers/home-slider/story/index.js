@@ -80,6 +80,58 @@ const Story = ({ section, paragraph, paragraphTwo, button, image }) => {
           </StoryInner>
         </div>
       </div>
+
+      <div style={{ marginTop: 100 }} className="row">
+        <div className="col-1 offset-1">
+          <SectionTitle title={"Our Services"} subtitle={""} />
+          <div style={{ marginTop: 50 }}></div>
+          <SectionTitle title={""} subtitle={"Marketing"} />
+
+          <Text {...paragraph}>
+            As retail experts we have a wide variety of expertise aiming to
+            achieve one thing:​ ​
+          </Text>
+          <li>Center Managers and Deputy Mall Managers</li>
+          <li>Operation Supervisors​​</li>
+          <li>Expert administrators </li>
+          <li>Tenant Coordination Engineers </li>
+          <li>Customer service agents</li>
+        </div>
+        <div style={{ marginLeft: 100 }} className="col-1">
+          <div style={{ marginTop: 20 }}></div>
+
+          <SectionTitle title={""} subtitle={"Advertisement"} />
+
+          <li>Digital Advertising</li>
+          <li>Outdoor Advertising</li>
+          <li>Social media Advertising </li>
+
+          <div style={{ marginTop: 100 }}></div>
+
+          <SectionTitle title={""} subtitle={"Advertisement"} />
+          <Text {...paragraph}>
+            We Provide a full service events planning through creativity and
+            uniqueness based on individual tastes and preferences.​
+          </Text>
+        </div>
+        <div style={{ marginLeft: 100 }} className="col-1 ">
+          <div style={{ marginTop: 20 }}></div>
+
+          <SectionTitle title={""} subtitle={"Advertisement"} />
+
+          <li>Digital Advertising</li>
+          <li>Outdoor Advertising</li>
+          <li>Social media Advertising </li>
+
+          <div style={{ marginTop: 100 }}></div>
+
+          <SectionTitle title={""} subtitle={"Advertisement"} />
+          <Text {...paragraph}>
+            We Provide a full service events planning through creativity and
+            uniqueness based on individual tastes and preferences.​
+          </Text>
+        </div>
+      </div>
     </StorySection>
   );
 };

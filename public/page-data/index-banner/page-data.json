@@ -1,18 +1,1 @@
-{
-  "componentChunkName": "component---src-pages-index-banner-js",
-  "path": "/index-banner/",
-  "result": { "pageContext": {} },
-  "staticQueryHashes": [
-    "1160564629",
-    "2224899231",
-    "2265102477",
-    "228695001",
-    "2361246656",
-    "2560962415",
-    "3358144346",
-    "3678715355",
-    "4200589008",
-    "4233935523",
-    "4243030194"
-  ]
-}
+{"componentChunkName":"component---src-pages-index-banner-js","path":"/index-banner/","result":{"pageContext":{}},"staticQueryHashes":["1160564629","2224899231","2265102477","228695001","2361246656","2560962415","3358144346","3678715355","4200589008","4233935523","4243030194"]}
