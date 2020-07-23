@@ -14,6 +14,7 @@ exports.components = {
   "component---src-pages-index-slider-js": () => import("./../../src/pages/index-slider.js" /* webpackChunkName: "component---src-pages-index-slider-js" */),
   "component---src-pages-index-video-js": () => import("./../../src/pages/index-video.js" /* webpackChunkName: "component---src-pages-index-video-js" */),
   "component---src-pages-project-js": () => import("./../../src/pages/project.js" /* webpackChunkName: "component---src-pages-project-js" */),
+  "component---src-pages-service-js": () => import("./../../src/pages/service.js" /* webpackChunkName: "component---src-pages-service-js" */),
   "component---src-templates-blog-list-blog-list-js": () => import("./../../src/templates/blog-list/blog-list.js" /* webpackChunkName: "component---src-templates-blog-list-blog-list-js" */),
   "component---src-templates-blog-template-blog-template-js": () => import("./../../src/templates/blog-template/blog-template.js" /* webpackChunkName: "component---src-templates-blog-template-blog-template-js" */),
   "component---src-templates-project-template-project-template-js": () => import("./../../src/templates/project-template/project-template.js" /* webpackChunkName: "component---src-templates-project-template-project-template-js" */)

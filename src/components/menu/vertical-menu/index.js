@@ -77,6 +77,15 @@ const VerticalMenu = ({ menuArr }) => {
             PROJECTS
           </NavLink>
         </NavItem>
+        <NavItem className="menu-item" id={`menu-item-${4}`}>
+          <NavLink
+            onMouseEnter={onHoverEnter}
+            onMouseLeave={onMouseLeave}
+            path={"/service"}
+          >
+            SERVICES
+          </NavLink>
+        </NavItem>
         {/* {menuArr.map((menu, i) => {
           const hasSubmenu = menu.node.isSubmenu ? true : null;
           const submenu = menu.node.submenu;

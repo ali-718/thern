@@ -17,6 +17,7 @@ exports.components = {
   "component---src-pages-index-slider-js": hot(preferDefault(require("/Users/alihaider/Desktop/paid themes/thern-creative-agency-react-gatsby-template/thern/src/pages/index-slider.js"))),
   "component---src-pages-index-video-js": hot(preferDefault(require("/Users/alihaider/Desktop/paid themes/thern-creative-agency-react-gatsby-template/thern/src/pages/index-video.js"))),
   "component---src-pages-project-js": hot(preferDefault(require("/Users/alihaider/Desktop/paid themes/thern-creative-agency-react-gatsby-template/thern/src/pages/project.js"))),
+  "component---src-pages-service-js": hot(preferDefault(require("/Users/alihaider/Desktop/paid themes/thern-creative-agency-react-gatsby-template/thern/src/pages/service.js"))),
   "component---src-templates-blog-list-blog-list-js": hot(preferDefault(require("/Users/alihaider/Desktop/paid themes/thern-creative-agency-react-gatsby-template/thern/src/templates/blog-list/blog-list.js"))),
   "component---src-templates-blog-template-blog-template-js": hot(preferDefault(require("/Users/alihaider/Desktop/paid themes/thern-creative-agency-react-gatsby-template/thern/src/templates/blog-template/blog-template.js"))),
   "component---src-templates-project-template-project-template-js": hot(preferDefault(require("/Users/alihaider/Desktop/paid themes/thern-creative-agency-react-gatsby-template/thern/src/templates/project-template/project-template.js")))
