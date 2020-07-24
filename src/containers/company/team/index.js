@@ -48,7 +48,7 @@ const TeamSection = ({ wrapperOne, wrapperTwo }) => {
         <div className="col-1 offset-1">
           <SectionTitle
             subtitle={teamSecData.subtitle}
-            title={teamSecData.title}
+            title={"Our Awesome Team"}
           />
         </div>
         <TeamWrapper {...wrapperOne}>

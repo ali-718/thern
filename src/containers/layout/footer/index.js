@@ -99,10 +99,9 @@ const Footer = ({
               </Address>
             )}
             <Address>
-              <Text {...addresTextStyle}>
-                <Text {...addresSpanStyle}>ENVAto hq</Text>
-                {parse(address)}
-              </Text>
+              <Heading style={{ marginTop: 10 }} {...widgetTitleStyle}>
+                Quick Location
+              </Heading>
               <div style={{ width: "100%" }}>
                 <iframe
                   width="100%"

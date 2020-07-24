@@ -28,6 +28,12 @@ const About = ({
               Side way promises to deliver faultless operation of your retail
               property
             </Text>
+            <img
+              style={{ height: 300, width: "100%" }}
+              src={
+                "https://cdn.pixabay.com/photo/2020/07/14/13/42/boat-5404195_960_720.jpg"
+              }
+            />
           </SectionTitle>
         </div>
 
@@ -48,35 +54,16 @@ const About = ({
               needs. Our role also extends to cover marketing and construction
               operations.
             </Text>
-          </AboutContent>
-        </div>
-      </div>
-
-      <div className="row section-pt-md">
-        <div className="col-4 offset-1">
-          <div className="content row">
             <div
               // key={work.id}
-              className="col-1 project-type wow fadeInLeft"
+              className="col-2 project-type wow fadeInLeft"
               data-wow-delay={`${1}ms`}
               data-wow-duration="1000ms"
-            ></div>
-
-            <div
-              // key={work.id}
-              className="col-1 project-type wow fadeInLeft"
-              data-wow-delay={`${1}ms`}
-              data-wow-duration="1000ms"
-            ></div>
-
-            <div
-              // key={work.id}
-              className="col-1 project-type wow fadeInLeft"
-              data-wow-delay={`${1}ms`}
-              data-wow-duration="1000ms"
+              style={{ marginTop: 50 }}
             >
               <Heading {...ProjectTypeHeading}>
-                We employ committed experts for the operation of your property
+                We employ committed experts for <br />
+                the operation of your property
               </Heading>
 
               <ProjectTypeList>
@@ -84,41 +71,24 @@ const About = ({
                   <Text {...ProjectTypeText}>
                     Center Managers and Deputy Mall Managers
                   </Text>
+                </li>
+                <li>
                   <Text {...ProjectTypeText}>​Operation Supervisors​​</Text>
+                </li>
+                <li>
                   <Text {...ProjectTypeText}>Expert administrators </Text>
+                </li>
+                <li>
                   <Text {...ProjectTypeText}>
                     Tenant Coordination Engineers 
                   </Text>
+                </li>
+                <li>
                   <Text {...ProjectTypeText}>Customer service agents</Text>
                 </li>
               </ProjectTypeList>
             </div>
-
-            {/* {featured_work.map((work, i) => {
-                delay.push(delay[i] + 200);
-                return (
-                  <div
-                    key={work.id}
-                    className="col-1 project-type wow fadeInLeft"
-                    data-wow-delay={`${delay}ms`}
-                    data-wow-duration="1000ms"
-                  >
-                    {work.title && (
-                      <Heading {...ProjectTypeHeading}>{work.title}</Heading>
-                    )}
-                    {work.achivments && (
-                      <ProjectTypeList>
-                        {work.achivments.map((achiv, i) => (
-                          <li key={`${work.id}-${i}`}>
-                            <Text {...ProjectTypeText}>{achiv}</Text>
-                          </li>
-                        ))}
-                      </ProjectTypeList>
-                    )}
-                  </div>
-                );
-              })} */}
-          </div>
+          </AboutContent>
         </div>
       </div>
     </AboutSectionWrap>
