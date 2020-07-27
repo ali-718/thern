@@ -8,8 +8,12 @@ const Logo = (props) => {
   return (
     <LogoWrapper {...props}>
       <Link to="/" className="big-cursor">
-        <img src={logo} alt="creative agency" className="white-logo" />
-        <img src={logoBlack} alt="creative agency" className="black-logo" />
+        <img src={logo} alt="creative agency" />
+        <img
+          style={{ visibility: "hidden" }}
+          src={logo}
+          alt="creative agency"
+        />
       </Link>
     </LogoWrapper>
   );

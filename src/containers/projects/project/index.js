@@ -51,14 +51,12 @@ const ProjectSection = ({ section, project }) => {
             {...project}
             isEven={true}
             id={1}
-            image={
-              "https://cdn.pixabay.com/photo/2020/06/02/06/29/ryanair-5249631_960_720.jpg"
-            }
+            image={require("../../../assets/img/logo/project.jpg")}
             title={"Smart Agency"}
             client={"Mohammed"}
             sector={"Commercial"}
           />
-          {/* {projectsData.map((data, i) => {
+          {projectsData.map((data, i) => {
             let isEven = i % 2 === 0;
             if (i == 0) {
               return (
@@ -66,14 +64,14 @@ const ProjectSection = ({ section, project }) => {
                   {...project}
                   isEven={true}
                   id={1}
-                  image={"https://cdn.pixabay.com/photo/2020/06/02/06/29/ryanair-5249631_960_720.jpg"}
+                  image={require("../../../assets/img/logo/project2.jpg")}
                   title={"Smart Agency"}
                   client={"Mohammed"}
                   sector={"Commercial"}
                 />
               );
             }
-          })} */}
+          })}
         </div>
       </div>
     </ProjectSectionWrap>

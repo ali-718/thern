@@ -60,12 +60,32 @@ const TeamSection = ({ wrapperOne, wrapperTwo }) => {
                     imageSrc={
                       "https://cdn.pixabay.com/photo/2016/02/19/11/46/man-1209947_960_720.jpg"
                     }
-                    name={"Mohammed"}
+                    name={"Ahmed Marzouk"}
                     designation={"CEO/Mokmo Solutions"}
                     animDelay={`${1}ms`}
                   />
                 </div>
                 <div className="col-1" key={`admin-${1}`}>
+                  <Team
+                    imageSrc={
+                      "https://cdn.pixabay.com/photo/2016/02/19/11/46/man-1209947_960_720.jpg"
+                    }
+                    name={"Ashraf El Alfy"}
+                    designation={"CEO/Mokmo Solutions"}
+                    animDelay={`${1}ms`}
+                  />
+                </div>
+                <div className="col-1" key={`admin-${1}`}>
+                  <Team
+                    imageSrc={
+                      "https://cdn.pixabay.com/photo/2016/02/19/11/46/man-1209947_960_720.jpg"
+                    }
+                    name={"Tarek El Alfy"}
+                    designation={"CEO/Mokmo Solutions"}
+                    animDelay={`${1}ms`}
+                  />
+                </div>
+                {/* <div className="col-1" key={`admin-${1}`}>
                   <Team
                     imageSrc={
                       "https://cdn.pixabay.com/photo/2015/09/16/17/04/marketing-942994_960_720.jpg"
@@ -74,7 +94,7 @@ const TeamSection = ({ wrapperOne, wrapperTwo }) => {
                     designation={"COO/Mokmo Solutions"}
                     animDelay={`${1}ms`}
                   />
-                </div>
+                </div> */}
                 {/* {admins.map((admin, i) => {
                   delay.push(delay[i] + 200);
                   return (

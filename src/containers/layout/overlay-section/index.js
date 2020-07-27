@@ -89,7 +89,11 @@ const OverlaySection = ({
       <OverlayLeft>
         <OverlayLeftTop>
           <OveralyLogo className="ovl-logo rn_surface">
-            <Logo />
+            <img
+              style={{ width: 250, height: 235 }}
+              src={require("../../../assets/img/logo/new-logo.png")}
+              alt="creative agency"
+            />
           </OveralyLogo>
           <OverlayMap className="ovl-map rn_surface">
             <img
