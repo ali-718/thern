@@ -82,9 +82,18 @@ const Story = ({ section, paragraph, paragraphTwo, button, image }) => {
         </div>
       </div>
 
-      <div style={{ marginTop: 100 }} className="row">
+      <div
+        style={{
+          paddingTop: 100,
+          paddingBottom: 100,
+          background: "#F5F5F5",
+          marginTop: 100,
+        }}
+        className="row"
+      >
         <div className="col-1 offset-1">
           <SectionTitle title={"Our Services"} subtitle={""} />
+          {/* <h3 style={{ color: "#001C42" }}>Our Services</h3> */}
           <div style={{ marginTop: 50 }}></div>
           <SectionTitle title={""} subtitle={"Marketing"} />
 

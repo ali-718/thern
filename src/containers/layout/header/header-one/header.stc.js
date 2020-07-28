@@ -48,7 +48,7 @@ export const Container = styled.div`
 `;
 
 export const HeaderMain = styled.div`
-  padding: 35px 0;
+  padding: 10px 0;
   display: flex;
   align-items: center;
   @media ${device.small} {
