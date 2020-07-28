@@ -31,7 +31,7 @@ const JoinOurTeam = ({ headingStyle, textStyle, buttonStyle }) => {
               {desc && <Text {...textStyle}>{desc}</Text>}
               <Button
                 as={Link}
-                to={path}
+                to={"/join"}
                 style={{ color: "white", marginTop: 20, ...buttonStyle }}
               >
                 Join Now

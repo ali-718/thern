@@ -42,7 +42,7 @@ const ContactFormSection = ({ headingStyle, textStyle }) => {
       <div className="row align-items-center">
         <div className="col-2">
           <BannerArea id="contact-form-banner">
-            <Image fluid={imageData} alt="Contact" />
+            <img src={require("../../../assets/img/logo/aboutus3.jpg")} />
           </BannerArea>
         </div>
         <div className="col-2 offset-1">
