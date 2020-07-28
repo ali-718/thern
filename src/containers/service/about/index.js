@@ -19,7 +19,14 @@ const Index = ({
   const delay = [200];
   return (
     <AboutSectionWrap>
-      <div className="row">
+      <div
+        style={{
+          backgroundColor: "#F8F8F8",
+          paddingTop: 100,
+          paddingBottom: 100,
+        }}
+        className="row"
+      >
         <div className="col-1 offset-1">
           <SectionTitle>
             <Heading {...HeadingStyle}>Marketing</Heading>
@@ -51,7 +58,7 @@ const Index = ({
           </AboutContent>
         </div>
       </div>
-      <div style={{ marginTop: 200 }}></div>
+      <div style={{ marginTop: 150 }}></div>
       <div className="row">
         <div className="col-2 offset-1">
           <AboutContent>
@@ -78,8 +85,15 @@ const Index = ({
         </div>
       </div>
 
-      <div style={{ marginTop: 200 }}></div>
-      <div className="row">
+      <div style={{ marginTop: 150 }}></div>
+      <div
+        style={{
+          backgroundColor: "#F8F8F8",
+          paddingTop: 100,
+          paddingBottom: 100,
+        }}
+        className="row"
+      >
         <div
           style={{ display: "flex", alignItems: "center" }}
           className="col-1 offset-1"

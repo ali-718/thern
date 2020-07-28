@@ -24,7 +24,7 @@ const Banner = () => {
     <div className="banner-area">
       {/* <Image fluid={imageData} alt="Company Banner"/> */}
       <img
-        style={{ height: 800, width: "100%" }}
+        style={{ width: "100%" }}
         src={require("../../../assets/img/logo/project.jpg")}
       />
     </div>

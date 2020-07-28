@@ -50,8 +50,13 @@ const Story = ({ section, paragraph, paragraphTwo, button, image }) => {
               triggerHook="onCenter"
             >
               <StoryImgWrap className="rn_surface story-image">
-                {/* <StoryImage fluid={imageData} /> */}
-                <img src={require("../../../assets/img/logo/aboutus.jpg")} />
+                <StoryImage
+                  src={require("../../../assets/img/logo/aboutus.jpg")}
+                />
+                {/* <img
+                  style={{ position: "relative", width: "100%" }}
+                  src={require("../../../assets/img/logo/aboutus.jpg")}
+                /> */}
               </StoryImgWrap>
             </Scene>
           </Controller>

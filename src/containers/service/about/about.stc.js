@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { device } from "../../../theme";
 
 export const AboutSectionWrap = styled.div`
-  padding: 130px 0;
+  padding: 0px 0;
   .section-pt-md {
     padding-top: 70px;
   }
